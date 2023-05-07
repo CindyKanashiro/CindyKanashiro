@@ -10,9 +10,8 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=onedark"
+  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=onedark&2title_color=#ffffff"
   media="(prefers-color-scheme: dark)"
-        title_color="#000000"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true"
