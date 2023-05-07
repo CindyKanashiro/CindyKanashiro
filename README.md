@@ -1,4 +1,5 @@
-<img align="right" src="./assets/XOsx.gif" width="350px">
+![XOsX](https://user-images.githubusercontent.com/89213698/236697971-c78c97d5-17fc-4a03-8a8c-5fb415dbbc7b.gif)
+
 <div align="left">
    <h1>Hey! Nice to meet you! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
    <p> 
