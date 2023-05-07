@@ -1,7 +1,4 @@
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698043-15ae0900-58bc-49d8-9c7c-53c2578f1833.gif" width="350px">
-<div align="right" width="350px">
-![XOsX](https://user-images.githubusercontent.com/89213698/236698043-15ae0900-58bc-49d8-9c7c-53c2578f1833.gif)
-</div>
 <div align="left">
    <h1>Hey! Nice to meet you! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
    <p> 
