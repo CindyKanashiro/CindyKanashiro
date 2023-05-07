@@ -11,11 +11,11 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cindykanashiro)](https://github.com/cindykanashiro/github-readme-stats)
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33"
+  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33"
+  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33" />
+<img src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true" />
 </picture>
