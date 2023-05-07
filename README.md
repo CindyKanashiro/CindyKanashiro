@@ -12,6 +12,7 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=onedark"
   media="(prefers-color-scheme: dark)"
+        title_color="#000000"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true"
