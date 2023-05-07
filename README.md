@@ -13,5 +13,4 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
   srcset="https://github-readme-stats.vercel.app/api?username=CindyKanashiro&show_icons=true&theme=onedark"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=CindyKanashiro&show_icons=true" />
 </picture>
