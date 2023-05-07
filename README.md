@@ -14,8 +14,8 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33"
 
 />
-<img src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33" />
 </picture>
