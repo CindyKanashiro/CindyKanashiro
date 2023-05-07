@@ -23,6 +23,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    </tr>
 </table>
 <br>
+<details>
 <summary>My Programming Skills</summary><br>
    <div>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,6 +38,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
         <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    </div>
+   </details>
    
    ![Snake animation](https://github.com/CindyKanashiro/CindyKanashiro/blob/output/github-contribution-grid-snake.svg)
 
