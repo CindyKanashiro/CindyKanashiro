@@ -8,6 +8,7 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cindykanashiro)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33"
@@ -15,7 +16,6 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33"
-
 />
 <img src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=#9FFF33" />
 </picture>
