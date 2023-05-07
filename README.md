@@ -7,7 +7,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br><br>
 <table width="900px">
    <tr>
-      <td valign="top" width="50%">
+      <td valign="top" width="50%" border="20px">
          <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark" />
       </td>
       <td valign="top" width="30%">
