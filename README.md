@@ -20,3 +20,4 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 />
 <img src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cindykanashiro)](https://github.com/cindykanashiro/github-readme-stats)
