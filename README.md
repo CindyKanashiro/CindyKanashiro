@@ -8,7 +8,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table width="900px">
    <tr>
       <td valign="top" width="50%">
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark" />
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&title_color=#9FFF33" />
       </td>
       <td valign="top" width="30%">
         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=true&theme=onedark" />
@@ -16,9 +16,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    </tr>
 </table>
 <br>
-<details>
-<summary>My Programming Skills</summary><br>
-| **Development** | 💻 **Lenguages** | 🛠 **Frameworks** |
-   
-</details>
 
