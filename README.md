@@ -19,8 +19,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br>
 <details>
 <summary>My Programming Skills</summary><br>
-   | **Development** | 💻 **Lenguages** | 🛠 **Frameworks** |
-   <br><br>
    <div>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -31,7 +29,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
         <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
         <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
         <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-        <img align="center" alt="SpringBoot"  height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"
+        <img align="center" alt="SpringBoot"  height="30" width="45" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"
    </div>
 </details>
 
