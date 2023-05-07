@@ -10,7 +10,7 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=CindyKanashiro&show_icons=true&theme=highcontrast"
+  srcset="https://github-readme-stats.vercel.app/api?username=CindyKanashiro&show_icons=true&theme=synthwave"
   media="(prefers-color-scheme: dark)"
 />
 <source
