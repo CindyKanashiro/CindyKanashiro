@@ -9,7 +9,7 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cindykanashiro&theme=dark&card_width=100px)](https://github.com/cindykanashiro/github-readme-stats)
-<picture>
+<picture height="180em">
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=dark&card_width=100px"
   media="(prefers-color-scheme: dark)"
