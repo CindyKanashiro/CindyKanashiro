@@ -1,3 +1,4 @@
+<img align="right" src="https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif" width="350px">
 <div align="left">
    <h1>Hey! Nice to meet you! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
    <p> 
@@ -7,7 +8,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br><br>
 <table width="900px">
    <tr>
-      <td valign="top" width="50%" border="20px">
+      <td valign="top" width="50%">
          <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark" />
       </td>
       <td valign="top" width="30%">
