@@ -9,6 +9,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "cindykanashiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href=""><img src="[https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"  target="_blank"></a>
 </div>
 <br><br>
 <table width="900px">
