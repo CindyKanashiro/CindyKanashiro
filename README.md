@@ -1,7 +1,17 @@
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="400px" width="400px">
-   <h1>Hey! Nice to meet you! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+   <h1>Olá! Seja bem-vindo! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
    <p> 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Atualmente estou no último semestre da faculdade(SPTech). Nesses anos estudando adquiri muito conhecimento, tanto hard-skills quanto soft-skills.
+
+Sou desenvolvedora full stack, atualmente tenho conhecimentos em ReactJS, Angular Framework, JavaScript, TypeScript, HTML e CSS para front-end, Java para o back end e, MySQL para banco de dados.
+
+Tenho uma grande facilidade em questões artísticas e como lidar com pessoas o que me faz ter um diferencial com diagramação, documentações, desenvolvimento de protótipos, elementos relacionados a UX|UI.
+
+Gosto de participar de planejamentos, sempre me atualizar e estar alinhada com as visões estratégicas dos projetos que participo.
+
+Minhas ferramentas mais utilizadas são Visual Studio Code, InteliJ, Gitlab, Github MS Planner, MS Word, MS PowerPoint e Figma.
+
+Tenho a ambição de me capacitar como engenheira de software. Contribuir e participar da construção de projetos de grande relevância.
    </p>
 </div>
 <br>
