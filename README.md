@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="400px" width="400px">
-   <h1>Olá! Seja bem-vindo! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+   <h1>Olá! Seja bem-vindo!</h1>
    <p> 
 Atualmente estou no último semestre da faculdade(SPTech). Nesses anos estudando adquiri muito conhecimento, tanto hard-skills quanto soft-skills.
 
