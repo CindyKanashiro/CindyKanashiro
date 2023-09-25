@@ -1,19 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="400px" width="400px">
-   <h1>Olá! Seja bem-vindo!</h1>
-   <p> 
-Atualmente acabei de finalizar minha faculdade de Análise e desenvolvimento de sistemas na SPTECH SCHOOL.. Nesses anos estudando adquiri muito conhecimento, tanto hard-skills quanto soft-skills.
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9601A&height=90&section=header"/>
 
-Sou desenvolvedora full stack, atualmente tenho conhecimentos em ReactJS, Angular Framework, JavaScript, TypeScript, HTML e CSS para front-end, Java para o back end e, MySQL para banco de dados.
-
-Tenho uma grande facilidade em questões artísticas e como lidar com pessoas o que me faz ter um diferencial com diagramação, documentações, desenvolvimento de protótipos, elementos relacionados a UX|UI.
-
-Gosto de participar de planejamentos, sempre me atualizar e estar alinhada com as visões estratégicas dos projetos que participo.
-
-Minhas ferramentas mais utilizadas são Visual Studio Code, InteliJ, Gitlab, Github MS Planner, MS Word, MS PowerPoint e Figma.
-
-Tenho a ambição de me capacitar como engenheira de software. Contribuir e participar da construção de projetos de grande relevância.
-   </p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2D43D&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
   <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
