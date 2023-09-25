@@ -10,7 +10,7 @@
    <li> Development FullStack </li>
    <li> ⚡ Curiosity: artist by hobby </li>
 </ul>
-
+<br>
   <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "cindykanashiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,6 +30,8 @@
         <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
         <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+        <img align="center" alt="android" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+        <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    </div>
 <br>
 <table width="900px">
@@ -43,6 +45,10 @@
    </tr>
 </table>
 <br>
+<div align="center">
+<b>Visitors Count</b> <br> 
+<img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" /> 
+</div>
    </details>
    
 
