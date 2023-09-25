@@ -1,13 +1,12 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=90&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="400px" width="400px">
 
 <br>
 <ul align="left">
    <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
-   <li> Development FullStack </li>
+   <li>:office: Development FullStack </li>
    <li>⚡Curiosity: artist by hobby </li>
 </ul>
 <br>
