@@ -8,7 +8,7 @@
 <ul align="left">
    <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
    <li> Development FullStack </li>
-   <li> ⚡ Curiosity: artist by hobby </li>
+   <li>⚡Curiosity: artist by hobby </li>
 </ul>
 <br>
   <div> 
@@ -30,7 +30,7 @@
         <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
         <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-        <img align="center" alt="android" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+        <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
         <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    </div>
 <br>
