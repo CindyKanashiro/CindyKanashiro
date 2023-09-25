@@ -1,4 +1,4 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=90&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=90&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2D43D&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
