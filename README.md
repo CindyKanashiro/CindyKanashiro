@@ -5,39 +5,23 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 <br>
-<details>
-<summary>🎓 Education</summary>
+<div align="left">
 
-- **SPTech School** - System Analysis and Development
-  - Status: **Completed** (4/4 Semester) ✅
-  - Focus: Full Stack Development, Database Management, Software Engineering
-- **Machine Learning Engineering** (Postgraduate)
-  - Status: **In Progress** 📚
-  - Focus: AI, Deep Learning, Data Science
+## 🚀 Quick Overview
 
-</details>
-
-<details>
-<summary>💼 Professional</summary>
-
-- **Role:** FullStack Developer
-- **Tech Stack:** Frontend + Backend
-- **Passion:** Building end-to-end solutions
-- **Goal:** Integrating AI/ML into web applications
-
-</details>
-
-<details>
-<summary>🎨 Personal</summary>
-
-- **Hobby:** Digital Artist
-- **Style:** Creative coding meets traditional art
-- **Fun Fact:** I debug code and sketch characters!
-- **Coffee Status:** Always brewing ☕
-
-</details>
+```yaml
+name: Cindy Kanashiro
+located_in: Brazil
+current_job: FullStack Developer
+education:
+  [
+    "SPTech School - System Analysis & Development (4/4)",
+    "Machine Learning Engineering (Postgrad)"
+  ]
+currently_learning: ["Machine Learning", "AI Engineering"]
+hobbies: ["Digital Art", "Creative Coding", "Coffee Tasting"]
 <br>
-  <div> 
+  <div>
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -69,7 +53,8 @@
 </table>
 <br>
 <!-- <div align="center">
-<b>Visitors Count</b> <br> 
+<b>Visitors Count</b> <br>
 <img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
    </details>
+```
