@@ -17,64 +17,23 @@
    <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> -->
 <br><br>
+### 📈 Language Stats
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" />
-        <br><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" />
-        <br><sub><b>React</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
-        <br><sub><b>HTML5</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
-        <br><sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
-        <br><sub><b>Java</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" />
-        <br><sub><b>Angular</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" />
-        <br><sub><b>PHP</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50" />
-        <br><sub><b>Kotlin</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" />
-        <br><sub><b>MySQL</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" />
-        <br><sub><b>Spring</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
-        <br><sub><b>Git</b></sub>
-      </td>
-    </tr>
-  </table>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&layout=compact&theme=radical&hide_border=true)
+
 </div>
+
+### 🛠️ Technologies I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
 <br>
 <!-- <div align="center">
 <b>Visitors Count</b> <br> 
