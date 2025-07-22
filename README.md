@@ -1,8 +1,28 @@
 <img align='center' src="./assets/Tatiana KawKaw.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
-<img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=ACCESSING+MAINFRAME...;LOADING+PROFILE...;WELCOME+TO+THE+MATRIX;FOLLOW+THE+WHITE+RABBIT+🐰)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=800&lines=✨+NEON+DEVELOPER+✨;💜+CODING+IN+THE+DARK+💜;🌟+FULL+STACK+MAGIC+🌟)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000,FFFF00,00FF00,00FFFF,FF00FF&size=30&center=true&vCenter=true&width=700&lines=ERROR_404:+HUMAN_NOT_FOUND;LOADING_DEVELOPER.exe...;SYSTEM_READY:+HELLO_WORLD!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=🌊+Creating+Digital+Waves;⚡+Powered+by+Coffee;🎯+Building+Amazing+Things)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A855F7,EC4899,F59E0B&size=40&center=true&vCenter=true&width=900&lines=🎮+LEVEL+UP+YOUR+CODE;🏆+ACHIEVEMENT+UNLOCKED;💎+LEGENDARY+DEVELOPER)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF,F85149,FFA657,F0883E,7C3AED&multiline=true&center=true&size=24&width=600&lines=🚀+Frontend+Developer;💻+Backend+Enthusiast;🎨+UI/UX+Designer)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=22&center=true&vCenter=true&width=440&lines=Hello,+World!+👋;I'm+a+passionate+developer;Welcome+to+my+profile!+😄)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+Cindy;Desenvolvedora+Full+Stack;Bem-vindo+ao+meu+perfil!&center=true&width=380&height=45)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0080,00FF80,8000FF&size=28&center=true&width=650&lines=🌃+Cyberpunk+Coder;💻+Hacking+The+Future;⚡+Digital+Rebel)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6B6B,4ECDC4,FFE66D&size=26&center=true&width=600&lines=🎮+Game+Developer;🏆+Achievement+Hunter;⚡+Code+%26+Play)
+
+<!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 <br>
 <ul align="left">
@@ -42,9 +62,9 @@
    </tr>
 </table>
 <br>
-<div align="center">
+<!-- <div align="center">
 <b>Visitors Count</b> <br> 
-<img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" /> 
+<img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
    </details>
    
