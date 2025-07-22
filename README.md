@@ -13,15 +13,17 @@
 name: Cindy Kanashiro
 located_in: Brazil
 current_job: FullStack Developer
-education:
+education: 
   [
     "SPTech School - System Analysis & Development (4/4)",
     "Machine Learning Engineering (Postgrad)"
   ]
 currently_learning: ["Machine Learning", "AI Engineering"]
 hobbies: ["Digital Art", "Creative Coding", "Coffee Tasting"]
+</div>
+```
 <br>
-  <div>
+  <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -53,8 +55,7 @@ hobbies: ["Digital Art", "Creative Coding", "Coffee Tasting"]
 </table>
 <br>
 <!-- <div align="center">
-<b>Visitors Count</b> <br>
+<b>Visitors Count</b> <br> 
 <img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
    </details>
-```
