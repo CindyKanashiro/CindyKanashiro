@@ -5,11 +5,37 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 <br>
-<ul align="left">
-   <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
-   <li>:office: Development FullStack </li>
-   <li>⚡Curiosity: artist by hozbby </li>
-</ul>
+<details>
+<summary>🎓 Education</summary>
+
+- **SPTech School** - System Analysis and Development
+  - Status: **Completed** (4/4 Semester) ✅
+  - Focus: Full Stack Development, Database Management, Software Engineering
+- **Machine Learning Engineering** (Postgraduate)
+  - Status: **In Progress** 📚
+  - Focus: AI, Deep Learning, Data Science
+
+</details>
+
+<details>
+<summary>💼 Professional</summary>
+
+- **Role:** FullStack Developer
+- **Tech Stack:** Frontend + Backend
+- **Passion:** Building end-to-end solutions
+- **Goal:** Integrating AI/ML into web applications
+
+</details>
+
+<details>
+<summary>🎨 Personal</summary>
+
+- **Hobby:** Digital Artist
+- **Style:** Creative coding meets traditional art
+- **Fun Fact:** I debug code and sketch characters!
+- **Coffee Status:** Always brewing ☕
+
+</details>
 <br>
   <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -47,6 +73,3 @@
 <img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
    </details>
-   
-
-
