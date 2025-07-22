@@ -17,7 +17,6 @@
    <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> -->
 <br><br>
----
 
 ### 🛠️ Technologies I Use
 <p align="center">
