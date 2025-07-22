@@ -12,11 +12,15 @@
 </ul> -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Student-SPTech_School-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_Course-System_Analysis_&_Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊_Progress-4/4_Semester-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Role-FullStack_Developer-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨_Hobby-Digital_Artist-pink?style=for-the-badge" />
+  
+### 👩‍🎓 About Me
+
+🌱 **Currently:** SPTech School Student (4/4 Semester)  
+📚 **Course:** System Analysis and Development  
+💻 **Focus:** FullStack Development  
+🎨 **Passion:** Digital Art & Creative Coding  
+☕ **Fuel:** Coffee-driven developer  
+
 </div>
 <br>
   <div> 
