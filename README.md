@@ -5,23 +5,12 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 <br>
-<!-- <ul align="left">
-   <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
-   <li>:office: Development FullStack </li>
-   <li>⚡Curiosity: artist by hozbby </li>
-</ul> -->
-
-<div align="center">
-  
-### 👩‍🎓 About Me
-
-🌱 **Currently:** SPTech School Student (4/4 Semester)  
-📚 **Course:** System Analysis and Development  
-💻 **Focus:** FullStack Development  
-🎨 **Passion:** Digital Art & Creative Coding  
-☕ **Fuel:** Coffee-driven developer  
-
-</div>
+<ul align="left">
+   <li>🎓 SPTech Graduate - System Analysis & Development (4/4) ✅</li>
+   <li>🧠 ML Engineering Postgraduate Student 📚</li>
+   <li>:office: FullStack Developer </li>
+   <li>⚡ Artist by hobby | ☕ Coffee addict </li>
+</ul>
 <br>
   <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
