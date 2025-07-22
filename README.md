@@ -6,7 +6,7 @@
 
 <br>
 <ul align="left">
-   <li>🎓 SPTech Graduate - System Analysis & Development (4/4) ✅</li>
+   <li>🎓 SPTech Graduate - System Analysis & Development (4/4)</li>
    <li>🧠 ML Engineering Postgraduate Student 📚</li>
    <li>:office: FullStack Developer </li>
    <li>⚡ Artist by hobby | ☕ Coffee addict </li>
