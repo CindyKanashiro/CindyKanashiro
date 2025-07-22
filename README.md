@@ -8,7 +8,7 @@
 <ul align="left">
    <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
    <li>:office: Development FullStack </li>
-   <li>⚡Curiosity: artist by hobby </li>
+   <li>⚡Curiosity: artist by hozbby </li>
 </ul>
 <br>
   <div> 
