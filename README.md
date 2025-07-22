@@ -5,26 +5,11 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 <br>
-<div align="center">
-
-### 🌟 Cindy Kanashiro - Developer & Artist
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Education&fontSize=20&fontColor=white" />
-
-**🎓 SPTech School Graduate**  
-_System Analysis & Development (4/4)_
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=header&text=Professional&fontSize=20&fontColor=white" />
-
-**💻 FullStack Developer**  
-_Frontend + Backend + ML_
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,12&height=100&section=header&text=Personal&fontSize=20&fontColor=white" />
-
-**🎨 Digital Artist**  
-_Code by day, art by night_
-
-</div>
+<ul align="left">
+   <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
+   <li>:office: Development FullStack </li>
+   <li>⚡Curiosity: artist by hozbby </li>
+</ul>
 <br>
   <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -62,3 +47,6 @@ _Code by day, art by night_
 <img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
    </details>
+   
+
+
