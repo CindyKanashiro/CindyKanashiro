@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" height="100%" >
+<img align='center' src="./assets/banner.jpg" height="100%" >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
