@@ -5,11 +5,19 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 <br>
-<ul align="left">
+<!-- <ul align="left">
    <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
    <li>:office: Development FullStack </li>
    <li>⚡Curiosity: artist by hozbby </li>
-</ul>
+</ul> -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_Student-SPTech_School-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Course-System_Analysis_&_Development-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊_Progress-4/4_Semester-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Role-FullStack_Developer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨_Hobby-Digital_Artist-pink?style=for-the-badge" />
+</div>
 <br>
   <div> 
   <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
