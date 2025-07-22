@@ -1,6 +1,6 @@
 <img align='center' src="./assets/Tatiana KawKaw.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=915d4d&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Currently+pursuing+Machine+Learning+Engineering;Be+Welcome!Grab+your+coffee+☕+and+let's+code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c39e79&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cindy+Kanashiro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Currently+pursuing+Machine+Learning+Engineering;Be+Welcome!Grab+your+coffee+☕+and+let's+code!)](https://git.io/typing-svg)
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
