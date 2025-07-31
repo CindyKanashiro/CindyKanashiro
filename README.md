@@ -133,7 +133,7 @@ $ quest_log --active --caffeinated
 </code></pre>
 
 </td>
-<td style="vertical-align: top; padding-left: 50px;">
+<td style="vertical-align: top; padding-left: 200px;">
 <img src="./assets/download.gif" alt="GIF animado" style="height: 400px; width: 300px;">
 </td>
 
