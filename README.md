@@ -19,6 +19,21 @@
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/sky__blu3e" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:seu.email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
 ## 🎯 Active Quests & Daily Challenges
 
 <table>
@@ -83,6 +98,7 @@ const specialMoves = {
   "🐛🔨": "Debug Master Ultimate",
 };
 ```
+
 ---
 
 <img align="left" src="./assets/piplup.gif" height="70px" width="70px">
@@ -92,4 +108,5 @@ $ echo "GG! Thanks for checking out my profile! ☕🎮"
 $ git commit -m "New friendship initialized"
 $ ./deploy_collaboration.sh --mode=awesome
 ```
+
 </div>
