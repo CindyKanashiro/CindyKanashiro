@@ -21,9 +21,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px">
 
 ## ⚡ Player Stats & Coffee Meter
+<!-- [████████████████████████████████] Profile Loading Complete! -->
 
 ```bash
-# [████████████████████████████████] Profile Loading Complete!
 
 🎓 Education Quest: SPTech - System Analysis & Development [COMPLETED ✅]
 📚 Current Campaign: ML Engineering Postgraduate [IN PROGRESS ⏳]
