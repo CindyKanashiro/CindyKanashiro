@@ -22,6 +22,8 @@
 }
 ```
 
+<table> <tr> <td style="vertical-align: top; padding-right: 15px;"> <img src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" alt="Developer GIF" width="250" height="220"> </td> <td style="vertical-align: top;"> <pre><code>{ "player": "Cindy Kanashiro", "class": "Full-Stack Caffeine Warrior", "level": 22, "location": "Brazil Server", "guild": "SPTech Alumni", "current_quest": "ML Engineering Mastery - FIAP", "energy_source": "premium_coffee_beans", "special_abilities": ["code_brewing", "artistic_vision"] } </code></pre> </td> </tr> </table> ```
+
 <!-- <table width="900px">
    <tr>
       <td valign="top" width="50%">
@@ -113,6 +115,7 @@ legendary_equipment:
   <tr>
     <td style="vertical-align: top;">
       <pre><code>
+      
 $ quest_log --active --caffeinated
 
 ┌─ MAIN QUESTS ─────────────────────────────────────┐
