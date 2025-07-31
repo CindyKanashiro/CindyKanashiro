@@ -1,6 +1,6 @@
 # ☕ Coffee-Driven Developer | Level 22
 
-<img align="left" src="./assets/giphy.gif" margin-top="100px" height="200px" width="150px">
+<img align="left" src="./assets/giphy.gif" margin-top="100px" height="300px" width="150px">
 
 ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
