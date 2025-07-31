@@ -1,6 +1,6 @@
 <img align="left" src="./assets/manidhaya.gif" height="70px" width="70px">
 
-# ☕ Coffee-Driven Developer | Level 22
+# Coffee-Driven Developer | Level 22
 
 ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
