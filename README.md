@@ -1,9 +1,10 @@
-# ☕ Coffee-Driven Developer | Level 22 | 
+# ☕ Coffee-Driven Developer | Level 22 |
 
 ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
+
 <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="250px" width="250px">
 
 ```json
@@ -19,9 +20,8 @@
 }
 ```
 
-
-
 ## ⚡ Player Stats & Coffee Meter
+
 <!-- [████████████████████████████████] Profile Loading Complete! -->
 
 ```bash
@@ -49,7 +49,7 @@ class CaffeinatedDeveloper extends Player {
         this.xp = 999999;
         this.energy = this.coffee_level * 10;
     }
-    
+
     levelUp() {
         this.coffee_level++;
         return this.skills.map(skill => skill.enhance());
@@ -57,7 +57,7 @@ class CaffeinatedDeveloper extends Player {
 }
 ``` -->
 
-## 🎮 Skill Tree Progression
+<!-- ## 🎮 Skill Tree Progression
 
 ### ⚔️ Frontend Combat Skills
 ```typescript
@@ -92,7 +92,7 @@ legendary_equipment:
   monitoring_eye: "Prometheus Vision"
   version_portal: "Git Time Travel"
   deployment_level: "Automated Mastery"
-```
+``` -->
 
 ## 🎯 Active Quests & Daily Challenges
 
@@ -159,7 +159,7 @@ Specialization: Full-Stack Coffee Brewing
 
 **Looking for Party Members to:**
 - 🚀 Raid complex codebases together
-- ☕ Share legendary coffee brewing techniques  
+- ☕ Share legendary coffee brewing techniques
 - 🧠 Conquer ML algorithm dungeons
 - 🎨 Create epic digital art collaborations
 - 🏆 Unlock new technology achievements
@@ -172,13 +172,23 @@ Specialization: Full-Stack Coffee Brewing
 // Hidden developer cheat codes
 const specialMoves = {
   "↑↑↓↓←→←→BA": "Infinite Coffee Mode",
-  "☕☕☕": "Triple Shot Productivity Boost", 
+  "☕☕☕": "Triple Shot Productivity Boost",
   "🎨🎨🎨": "Creative Mode Activated",
-  "🐛🔨": "Debug Master Ultimate"
+  "🐛🔨": "Debug Master Ultimate",
 };
 ```
+<table width="900px">
+   <tr>
+      <td valign="top" width="50%">
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark&include_all_commits=true&show_icons=true" />
+      </td>
+      <td valign="top" width="30%">
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=onedark&langs_count=16" />
+      </td>
+   </tr>
+</table>
 
-<!-- <div> 
+<!-- <div>
 <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> -->
@@ -192,6 +202,6 @@ $ ./deploy_collaboration.sh --mode=awesome
 ```
 
 <!-- <div align="center">
-<b>Player Visits</b> <br> 
+<b>Player Visits</b> <br>
 <img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
