@@ -105,6 +105,10 @@ legendary_equipment:
   deployment_level: "Automated Mastery"
 ``` -->
 
+<!-- <img align="right" src="./assets/download.gif" margin-top="100px" height="300px" width="250px"> -->
+
+## 🎯 Active Quests & Daily Challenges
+
 <table>
   <tr>
     <td style="vertical-align: top;">
@@ -125,9 +129,10 @@ $ quest_log --active --caffeinated
 │ 🎯 Debug Mission Critical Code [STANDBY ⏸️] │
 └───────────────────────────────────────────────────┘
 </code></pre>
+
 </td>
 <td style="vertical-align: top; padding-left: 20px;">
-<img src="./assets/download.gif" alt="GIF animado" style="height: 300px; width: 250px;">
+<img src="./assets/download.gif" alt="GIF animado" style="height: 350px; width: 300px;">
 </td>
 
   </tr>
