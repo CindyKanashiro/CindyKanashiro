@@ -1,4 +1,4 @@
-<img align="right" src="./assets/pokemon-piplup.gif" margin-top="500px" height="50px" width="50px">
+<!-- <img align="right" src="./assets/pokemon-piplup.gif" margin-top="500px" height="50px" width="50px"> -->
 
 # ☕ Coffee-Driven Developer | Level 22
 
