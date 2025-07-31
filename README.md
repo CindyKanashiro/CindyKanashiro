@@ -1,3 +1,5 @@
+<img align="left" src="./assets/manidhaya.gif" height="70px" width="70px">
+
 # ☕ Coffee-Driven Developer | Level 22
 
 ```bash
@@ -17,99 +19,13 @@
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
-
-<!-- <table width="900px">
-   <tr>
-      <td valign="top" width="50%">
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark&include_all_commits=true&show_icons=true" />
-      </td>
-      <td valign="top" width="30%">
-        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=onedark&langs_count=16" />
-      </td>
-   </tr>
-</table> -->
-
-<!-- ## ⚡ Player Stats & Coffee Meter -->
-
-<!-- [████████████████████████████████] Profile Loading Complete! -->
-
-<!-- ```bash
-
-🎓 Education Quest: SPTech - System Analysis & Development [COMPLETED ✅]
-📚 Current Campaign: ML Engineering Postgraduate [IN PROGRESS ⏳]
-💼 Active Role: FullStack Developer [GRINDING 🔥]
-🎨 Side Quest: Digital Artist [HOBBY MODE 🎯]
-☕ Caffeine Level: [██████████] MAX POWER!
-``` -->
-
-<!--## 🏆 Achievement Unlocked
-
- ```coffee
-class CaffeinatedDeveloper extends Player {
-    constructor() {
-        super();
-        this.achievements = [
-            "🎓 Graduate Warrior - Systems Development Mastery",
-            "☕ Coffee Connoisseur - 1000+ cups consumed",
-            "🎨 Creative Multiclass - Art + Code Hybrid",
-            "🚀 Full-Stack Explorer - Frontend & Backend Domains",
-            "🧠 ML Apprentice - Neural Network Novice"
-        ];
-        this.xp = 999999;
-        this.energy = this.coffee_level * 10;
-    }
-
-    levelUp() {
-        this.coffee_level++;
-        return this.skills.map(skill => skill.enhance());
-    }
-}
-``` -->
-
-<!-- ## 🎮 Skill Tree Progression
-
-### ⚔️ Frontend Combat Skills
-```typescript
-const frontendSkills: WeaponArray = {
-  primaryWeapons: ['JavaScript⚔️', 'TypeScript🗡️'],
-  magicSpells: ['React✨'],
-  armor: ['Tailwind CSS🛡️'],
-  proficiency: 'Expert',
-  damageMultiplier: 'x2.5'
-};
-```
-
-### 🛡️ Backend Fortress Defense
-```java
-public class BackendGuild {
-    private Weapon[] arsenal = {
-        new Java("SpringBoot Enhanced"),
-        new Python("ML Artillery"),
-        new Go("Speed Demon")
-    };
-    private Shield database = new MySQL("Fortress Storage");
-    private int defenseLevel = 95;
-    private String status = "Impenetrable";
-}
-```
-
-### ☁️ Cloud & DevOps Magic
-```yaml
-legendary_equipment:
-  cloud_mount: "AWS Pegasus"
-  container_spell: "Docker Transformation"
-  monitoring_eye: "Prometheus Vision"
-  version_portal: "Git Time Travel"
-  deployment_level: "Automated Mastery"
-``` -->
-
 ## 🎯 Active Quests & Daily Challenges
 
 <table>
   <tr>
     <td style="vertical-align: top;">
       <pre><code>
-      
+
 $ quest_log --active --caffeinated
 
 ┌─ MAIN QUESTS ─────────────────────────────────────┐
@@ -138,21 +54,6 @@ $ quest_log --active --caffeinated
   </tr>
 </table>
 
-<!-- ## 📊 Combat Performance Analytics
-
-```
-┌─ DEVELOPER COMBAT STATS ──────────────────────────┐
-│                                                   │
-│  ☕ Coffee-to-Code Efficiency  [██████████] 100%  │
-│  🐛 Bug Slaying Accuracy      [████████░░]  85%  │
-│  🚀 Feature Deployment Speed  [█████████░]  90%  │
-│  🎨 Creative Problem Solving  [███████░░░]  75%  │
-│  🤝 Team Collaboration XP     [█████████░]  95%  │
-│  🧠 ML Algorithm Mastery      [██████░░░░]  60%  │
-│                                                   │
-└───────────────────────────────────────────────────┘
-``` -->
-
 ## 🛠️ Inventory & Equipment
 
 <p align="left">
@@ -171,25 +72,6 @@ $ quest_log --active --caffeinated
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Container Magic"/>
 </p>
 
-<!-- ## 🌟 Guild & Multiplayer Mode
-
-```bash
-$ guild_status --coffee-powered-devs
-
-Guild: "Caffeine-Driven Coders"
-Rank: Senior Developer Barista
-Specialization: Full-Stack Coffee Brewing
-```
-
-**Looking for Party Members to:**
-- 🚀 Raid complex codebases together
-- ☕ Share legendary coffee brewing techniques
-- 🧠 Conquer ML algorithm dungeons
-- 🎨 Create epic digital art collaborations
-- 🏆 Unlock new technology achievements
-
-**Response Time**: `while(coffee.available()) { reply_instantly(); }` ≈ 15-30 min -->
-
 ## 🎪 Easter Eggs & Special Abilities
 
 ```javascript
@@ -201,12 +83,6 @@ const specialMoves = {
   "🐛🔨": "Debug Master Ultimate",
 };
 ```
-
-<!-- <div>
-<a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> -->
-
 ---
 
 <img align="left" src="./assets/piplup.gif" height="70px" width="70px">
@@ -216,8 +92,4 @@ $ echo "GG! Thanks for checking out my profile! ☕🎮"
 $ git commit -m "New friendship initialized"
 $ ./deploy_collaboration.sh --mode=awesome
 ```
-
-<!-- <div align="center">
-<b>Player Visits</b> <br>
-<img align="center" src="https://profile-counter.glitch.me/{CindyKanashiro}/count.svg" />  -->
 </div>
