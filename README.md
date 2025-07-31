@@ -1,4 +1,4 @@
-# ☕ Coffee-Driven Developer | Level 22 | Terminal Master
+# ☕ Coffee-Driven Developer | Level 22 | 
 
 ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
