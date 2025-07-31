@@ -92,7 +92,7 @@ const specialMoves = {
   "↑↑↓↓←→←→BA": "Infinite Coffee Mode",
   "☕☕☕": "Triple Shot Productivity Boost",
   "🎨🎨🎨": "Creative Mode Activated",
-  "🐛🔨": "Debug Master Ultimate",
+  "🐛🔨": "Debug Ultimate",
 };
 ```
 
