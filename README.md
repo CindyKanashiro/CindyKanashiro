@@ -19,7 +19,7 @@
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
-<table width="900px">
+<!-- <table width="900px">
    <tr>
       <td valign="top" width="50%">
          <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark&include_all_commits=true&show_icons=true" />
@@ -28,7 +28,7 @@
         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=onedark&langs_count=16" />
       </td>
    </tr>
-</table>
+</table> -->
 
 <!-- ## ⚡ Player Stats & Coffee Meter -->
 
