@@ -1,4 +1,4 @@
-<img align="left" src="./assets/giphy.gif" margin-top="100px" height="350px" width="150px">
+<img align="left" src="https://tenor.com/pt-BR/view/pokemon-piplup-piplup-pokemon-pokemon-piplup-gif-24772798" margin-top="100px" height="350px" width="150px">
 
 # ☕ Coffee-Driven Developer | Level 22
 
