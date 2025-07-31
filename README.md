@@ -7,7 +7,7 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="320px" width="320px"> -->
 
-<img align="left" src="./assets//pokemon-piplup.gif" margin-top="100px" height="350px" width="150px">
+<!-- <img align="left" src="./assets//pokemon-piplup.gif" margin-top="100px" height="350px" width="150px"> -->
 
 ```json
 {
