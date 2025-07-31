@@ -4,6 +4,7 @@
 ┌─[cindy@coffee-terminal]─[~/dev/life]
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
+<img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px">
 
 ```json
 {
@@ -18,7 +19,7 @@
 }
 ```
 
-<img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px">
+
 
 ## ⚡ Player Stats & Coffee Meter
 <!-- [████████████████████████████████] Profile Loading Complete! -->
@@ -32,9 +33,9 @@
 ☕ Caffeine Level: [██████████] MAX POWER!
 ```
 
-## 🏆 Achievement Unlocked
+<!--## 🏆 Achievement Unlocked
 
-<!-- ```coffee
+ ```coffee
 class CaffeinatedDeveloper extends Player {
     constructor() {
         super();
