@@ -7,7 +7,6 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="320px" width="320px"> -->
 
-<img align="right" src="./assets/download.gif" height="400px" width="300px">
 
 ```json
 {
@@ -105,6 +104,9 @@ legendary_equipment:
   version_portal: "Git Time Travel"
   deployment_level: "Automated Mastery"
 ``` -->
+
+<img align="right" src="./assets/download.gif" height="400px" width="300px">
+
 
 ## 🎯 Active Quests & Daily Challenges
 
