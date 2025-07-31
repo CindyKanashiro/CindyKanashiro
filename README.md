@@ -1,4 +1,4 @@
-# ☕ Coffee-Driven Developer | Level 22 
+# ☕ Coffee-Driven Developer | Level 22
 
 ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
@@ -6,7 +6,6 @@
 ```
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="320px" width="320px"> -->
-
 
 ```json
 {
@@ -20,6 +19,7 @@
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
+
 <!-- <table width="900px">
    <tr>
       <td valign="top" width="50%">
@@ -105,28 +105,33 @@ legendary_equipment:
   deployment_level: "Automated Mastery"
 ``` -->
 
-<img align="right" src="./assets/download.gif" margin-top="100px" height="300px" width="250px">
-
-
-## 🎯 Active Quests & Daily Challenges
-
-```bash
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <pre><code>
 $ quest_log --active --caffeinated
 
 ┌─ MAIN QUESTS ─────────────────────────────────────┐
-│ 🧠 Master ML Algorithms           [▓▓▓▓▓░░░] 60%  │
-│ ☕ Consume Premium Coffee          [██████████] 100%│
-│ 🚀 Build Epic Applications        [▓▓▓▓▓▓▓▓░░] 80% │
-│ 🎨 Create Digital Masterpieces    [▓▓▓▓▓▓▓░░░] 70% │
+│ 🧠 Master ML Algorithms [▓▓▓▓▓░░░] 60% │
+│ ☕ Consume Premium Coffee [██████████] 100%│
+│ 🚀 Build Epic Applications [▓▓▓▓▓▓▓▓░░] 80% │
+│ 🎨 Create Digital Masterpieces [▓▓▓▓▓▓▓░░░] 70% │
 └───────────────────────────────────────────────────┘
 
 ┌─ DAILY CHALLENGES ────────────────────────────────┐
-│ ☕ Morning Espresso Ritual         [COMPLETE ✅]   │
-│ 💻 Code Review & Optimization      [ACTIVE 🔥]    │
-│ 📚 Study ML Concepts              [ACTIVE 📖]    │
-│ 🎯 Debug Mission Critical Code    [STANDBY ⏸️]    │
+│ ☕ Morning Espresso Ritual [COMPLETE ✅] │
+│ 💻 Code Review & Optimization [ACTIVE 🔥] │
+│ 📚 Study ML Concepts [ACTIVE 📖] │
+│ 🎯 Debug Mission Critical Code [STANDBY ⏸️] │
 └───────────────────────────────────────────────────┘
-```
+</code></pre>
+</td>
+<td style="vertical-align: top; padding-left: 20px;">
+<img src="./assets/download.gif" alt="GIF animado" style="height: 300px; width: 250px;">
+</td>
+
+  </tr>
+</table>
 
 <!-- ## 📊 Combat Performance Analytics
 
