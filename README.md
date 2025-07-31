@@ -21,7 +21,7 @@
 ```
 ## Let's Connect! ☕
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/sky__blu3e"><img src="https://img.shields.io/badge/-@sky__blu3e-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/-Cindy_Kanashiro-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
