@@ -209,7 +209,7 @@ const specialMoves = {
 
 ---
 
-<img align="left" src="./assets/pokemon-piplup.gif" height="80px" width="80px">
+<img align="left" src="./assets/pokemon-piplup.gif" height="70px" width="70px">
 
 ```bash
 $ echo "GG! Thanks for checking out my profile! ☕🎮"
