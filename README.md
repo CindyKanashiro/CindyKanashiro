@@ -23,7 +23,7 @@
 ## ⚡ Player Stats & Coffee Meter
 
 ```bash
-[████████████████████████████████] Profile Loading Complete!
+# [████████████████████████████████] Profile Loading Complete!
 
 🎓 Education Quest: SPTech - System Analysis & Development [COMPLETED ✅]
 📚 Current Campaign: ML Engineering Postgraduate [IN PROGRESS ⏳]
