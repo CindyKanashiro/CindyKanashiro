@@ -20,7 +20,7 @@
 }
 ```
 
-## Let's Connect! ☕
+## 🌐 Let's Connect!
 
 <p align="left">
  <a href="https://instagram.com/sky__blu3e" target="_blank">
