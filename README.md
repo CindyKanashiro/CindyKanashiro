@@ -29,7 +29,6 @@
   <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <!-- <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> -->
 </p>
 
 ## 🎯 Active Quests & Daily Challenges
