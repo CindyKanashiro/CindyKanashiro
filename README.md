@@ -109,7 +109,6 @@ legendary_equipment:
   <tr>
     <td style="vertical-align: top;">
       <pre><code>
-      
 $ quest_log --active --caffeinated
 
 ┌─ MAIN QUESTS ─────────────────────────────────────┐
