@@ -209,13 +209,13 @@ const specialMoves = {
 
 ---
 
+<img align="left" src="./assets/pokemon-piplup.gif" margin-top="500px" height="150px" width="150px">
+
 ```bash
 $ echo "GG! Thanks for checking out my profile! ☕🎮"
 $ git commit -m "New friendship initialized"
 $ ./deploy_collaboration.sh --mode=awesome
 ```
-
-<img align="right" src="./assets/pokemon-piplup.gif" margin-top="500px" height="150px" width="150px">
 
 <!-- <div align="center">
 <b>Player Visits</b> <br>
