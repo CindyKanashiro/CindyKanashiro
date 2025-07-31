@@ -2,7 +2,7 @@
 
 # Coffee-Driven Developer | Level 22
 
-```bash
+<!-- ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
@@ -18,7 +18,20 @@
   "energy_source": "premium_coffee_beans",
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
-```
+``` -->
+
+<div style="font-family: 'Courier New', Courier, monospace; text-align: left; line-height: 1.6;">
+
+Player: Cindy Kanashiro<br>
+Class: Full-Stack Caffeine Warrior<br>
+Level: 22<br>
+Location: Brazil Server<br>
+Guild: SPTech Alumni<br>
+Current Quest: ML Engineering Mastery - FIAP<br>
+Energy Source: Premium Coffee Beans<br>
+Special Abilities: Code Brewing, Artistic Vision
+
+</div>
 
 ## Let's Connect! ☕
 
