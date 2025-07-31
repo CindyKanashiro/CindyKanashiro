@@ -1,4 +1,4 @@
-<img align="left" src="./assets/manidhaya.gif" height="60px" width="60px">
+<img align="left" src="./assets/manidhaya.gif" height="70px" width="70px">
 
 # Coffee-Driven Developer | Level 22
 
