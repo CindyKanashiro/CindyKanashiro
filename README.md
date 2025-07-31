@@ -105,7 +105,7 @@ legendary_equipment:
   deployment_level: "Automated Mastery"
 ``` -->
 
-<img align="right" src="./assets/download.gif" margin-top="30px" height="300px" width="250px">
+<img align="right" src="./assets/download.gif" margin-top="100px" height="300px" width="250px">
 
 
 ## 🎯 Active Quests & Daily Challenges
