@@ -19,14 +19,13 @@
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
+## Let's Connect! ☕
 
-## 🎮 Guild Connections
-
-| Platform | Status | Quest Reward |
-|----------|--------|--------------|
-| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/) | 🟢 Active | Professional EXP |
-| [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sky__blu3e) | 🟢 Active | Creative EXP |
-| [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com) | 🟢 Active | Direct Communication |
+<p align="center">
+  <a href="https://instagram.com/sky__blu3e"><img src="https://img.shields.io/badge/-@sky__blu3e-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cindy-kanashiro-gon%C3%A7alves-19055823a/"><img src="https://img.shields.io/badge/-Cindy_Kanashiro-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ## 🎯 Active Quests & Daily Challenges
 
