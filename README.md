@@ -13,9 +13,9 @@
   "level": 22,
   "location": "Brazil Server",
   "guild": "SPTech Alumni",
-  "current_quest": "ML Engineering Mastery",
+  "current_quest": "ML Engineering Mastery - FIAP",
   "energy_source": "premium_coffee_beans",
-  "special_abilities": ["code_brewing", "artistic_vision", "debug_mastery"]
+  "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
 
