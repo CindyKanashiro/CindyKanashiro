@@ -19,19 +19,29 @@
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
 ```
+<table width="900px">
+   <tr>
+      <td valign="top" width="50%">
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark&include_all_commits=true&show_icons=true" />
+      </td>
+      <td valign="top" width="30%">
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=onedark&langs_count=16" />
+      </td>
+   </tr>
+</table>
 
-## ⚡ Player Stats & Coffee Meter
+<!-- ## ⚡ Player Stats & Coffee Meter -->
 
 <!-- [████████████████████████████████] Profile Loading Complete! -->
 
-```bash
+<!-- ```bash
 
 🎓 Education Quest: SPTech - System Analysis & Development [COMPLETED ✅]
 📚 Current Campaign: ML Engineering Postgraduate [IN PROGRESS ⏳]
 💼 Active Role: FullStack Developer [GRINDING 🔥]
 🎨 Side Quest: Digital Artist [HOBBY MODE 🎯]
 ☕ Caffeine Level: [██████████] MAX POWER!
-```
+``` -->
 
 <!--## 🏆 Achievement Unlocked
 
@@ -177,16 +187,6 @@ const specialMoves = {
   "🐛🔨": "Debug Master Ultimate",
 };
 ```
-<table width="900px">
-   <tr>
-      <td valign="top" width="50%">
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark&include_all_commits=true&show_icons=true" />
-      </td>
-      <td valign="top" width="30%">
-        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=onedark&langs_count=16" />
-      </td>
-   </tr>
-</table>
 
 <!-- <div>
 <a href="https://instagram.com/sky__blu3e" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
