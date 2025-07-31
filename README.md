@@ -7,8 +7,6 @@
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="320px" width="320px"> -->
-
 ```json
 {
   "player": "Cindy Kanashiro",
@@ -136,7 +134,7 @@ $ quest_log --active --caffeinated
 
 </td>
 <td style="vertical-align: top;">
-<img src="./assets/download.gif" alt="GIF animado" style="height: 400px; width: 300px;">
+<img src="./assets/download.gif" alt="GIF animado" style="height: 500px; width: 400px;">
 </td>
 
   </tr>
