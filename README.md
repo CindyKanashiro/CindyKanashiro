@@ -20,18 +20,7 @@
 }
 ``` -->
 
-<div style="font-family: 'Courier New', Courier, monospace; text-align: left; line-height: 1.6;">
-
-Player: Cindy Kanashiro<br>
-Class: Full-Stack Caffeine Warrior<br>
-Level: 22<br>
-Location: Brazil Server<br>
-Guild: SPTech Alumni<br>
-Current Quest: ML Engineering Mastery - FIAP<br>
-Energy Source: Premium Coffee Beans<br>
-Special Abilities: Code Brewing, Artistic Vision
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c39e79&size=30&center=true&vCenter=true&width=1000&repeat=false&lines=Coffee-Driven+Developer+|+Level+22;Player:+Cindy+Kanashiro;Class:+Full-Stack+Caffeine+Warrior;Location:+Brazil+Server;Guild:+SPTech+Alumni;Current+Quest:+ML+Engineering+Mastery+-+FIAP;Energy+Source:+Premium+Coffee+Beans;Special+Abilities:+Code+Brewing,+Artistic+Vision;Grab+your+coffee+☕+and+let's+code!)](https://git.io/typing-svg)
 
 ## Let's Connect! ☕
 
