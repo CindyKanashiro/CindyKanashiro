@@ -18,7 +18,6 @@
 }
 ```
 
-<!-- <img align='center' src="./assets/Tatiana KawKaw.gif"> -->
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="350px" width="350px"> -->
 
 ## ⚡ Player Stats & Coffee Meter
@@ -35,7 +34,7 @@
 
 ## 🏆 Achievement Unlocked
 
-```coffee
+<!-- ```coffee
 class CaffeinatedDeveloper extends Player {
     constructor() {
         super();
@@ -55,7 +54,7 @@ class CaffeinatedDeveloper extends Player {
         return this.skills.map(skill => skill.enhance());
     }
 }
-```
+``` -->
 
 ## 🎮 Skill Tree Progression
 
@@ -114,7 +113,7 @@ $ quest_log --active --caffeinated
 └───────────────────────────────────────────────────┘
 ```
 
-## 📊 Combat Performance Analytics
+<!-- ## 📊 Combat Performance Analytics
 
 ```
 ┌─ DEVELOPER COMBAT STATS ──────────────────────────┐
@@ -127,7 +126,7 @@ $ quest_log --active --caffeinated
 │  🧠 ML Algorithm Mastery      [██████░░░░]  60%  │
 │                                                   │
 └───────────────────────────────────────────────────┘
-```
+``` -->
 
 ## 🛠️ Inventory & Equipment
 
@@ -147,7 +146,7 @@ $ quest_log --active --caffeinated
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Container Magic"/>
 </p>
 
-## 🌟 Guild & Multiplayer Mode
+<!-- ## 🌟 Guild & Multiplayer Mode
 
 ```bash
 $ guild_status --coffee-powered-devs
@@ -164,7 +163,7 @@ Specialization: Full-Stack Coffee Brewing
 - 🎨 Create epic digital art collaborations
 - 🏆 Unlock new technology achievements
 
-**Response Time**: `while(coffee.available()) { reply_instantly(); }` ≈ 15-30 min
+**Response Time**: `while(coffee.available()) { reply_instantly(); }` ≈ 15-30 min -->
 
 ## 🎪 Easter Eggs & Special Abilities
 
