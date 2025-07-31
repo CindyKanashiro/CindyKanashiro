@@ -2,7 +2,7 @@
 
 # Coffee-Driven Developer | Level 22
 
-<!-- ```bash
+```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
@@ -18,9 +18,7 @@
   "energy_source": "premium_coffee_beans",
   "special_abilities": ["code_brewing", "artistic_vision"]
 }
-``` -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c39e79&size=30&center=true&vCenter=true&width=1000&repeat=false&lines=Coffee-Driven+Developer+|+Level+22;Player:+Cindy+Kanashiro;Class:+Full-Stack+Caffeine+Warrior;Location:+Brazil+Server;Guild:+SPTech+Alumni;Current+Quest:+ML+Engineering+Mastery+-+FIAP;Energy+Source:+Premium+Coffee+Beans;Special+Abilities:+Code+Brewing,+Artistic+Vision;Grab+your+coffee+☕+and+let's+code!)](https://git.io/typing-svg)
+```
 
 ## Let's Connect! ☕
 
