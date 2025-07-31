@@ -13,7 +13,7 @@
   "class": "Full-Stack Caffeine Warrior",
   "level": 22,
   "location": "Brazil Server",
-  "guild": "SPTech Alumni",
+  "completed_quests": ["Systems Development - SPTech"],
   "current_quest": "ML Engineering Mastery - FIAP",
   "energy_source": "premium_coffee_beans",
   "special_abilities": ["code_brewing", "artistic_vision"]
