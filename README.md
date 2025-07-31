@@ -1,6 +1,6 @@
-# ☕ Coffee-Driven Developer | Level 22
-
 <img align="left" src="./assets/giphy.gif" margin-top="100px" height="350px" width="150px">
+
+# ☕ Coffee-Driven Developer | Level 22
 
 ```bash
 ┌─[cindy@coffee-terminal]─[~/dev/life]
@@ -8,7 +8,6 @@
 ```
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/89213698/236698674-b1d236c2-f5cd-405c-9b51-ed37b5ac10e7.gif" height="320px" width="320px"> -->
-
 
 ```json
 {
@@ -107,7 +106,6 @@ legendary_equipment:
   version_portal: "Git Time Travel"
   deployment_level: "Automated Mastery"
 ``` -->
-
 
 ## 🎯 Active Quests & Daily Challenges
 
