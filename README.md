@@ -7,7 +7,7 @@
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
 
-<img align="right" src="./assets/notebook.gif" height="250px" width="250px">
+<img align="right" src="./assets/notebook.gif" height="220px" width="220px">
 
 ```json
 {
@@ -64,7 +64,6 @@ $ quest_log --active --caffeinated
 <td style="vertical-align: top;">
 <img src="./assets/download.gif" alt="GIF animado" style="height: 500px; width: 400px;">
 </td>
-
   </tr>
 </table>
 
@@ -86,17 +85,17 @@ $ quest_log --active --caffeinated
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Container Magic"/>
 </p>
 
-% ## 🎪 Easter Eggs & Special Abilities
+## 🎪 Easter Eggs & Special Abilities
 
-% ```javascript
-% // Hidden developer cheat codes
-% const specialMoves = {
-%   "↑↑↓↓←→←→BA": "Infinite Coffee Mode",
-%   "☕☕☕": "Triple Shot Productivity Boost",
-%   "🎨🎨🎨": "Creative Mode Activated",
-%   "🐛🔨": "Debug Ultimate",
-% };
-% ```
+```javascript
+// Hidden developer cheat codes
+const specialMoves = {
+  "↑↑↓↓←→←→BA": "Infinite Coffee Mode",
+  "☕☕☕": "Triple Shot Productivity Boost",
+  "🎨🎨🎨": "Creative Mode Activated",
+  "🐛🔨": "Debug Ultimate",
+};
+```
 
 <table width="900px">
    <tr>
