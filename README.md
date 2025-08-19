@@ -103,7 +103,7 @@ const specialMoves = {
          <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=dracula&cache_seconds=2300" alt="ilustração do status do github">
       </td>
       <td valign="top" width="30%">
-        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=dracula&langs_count=16" />
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=merko&langs_count=16" />
       </td>
    </tr>
 </table>
