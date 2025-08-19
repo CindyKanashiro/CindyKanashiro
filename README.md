@@ -6,6 +6,7 @@
 ┌─[cindy@coffee-terminal]─[~/dev/life]
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
+
 <img align="right" src="./assets/notebook.gif" height="250px" width="250px">
 
 ```json
@@ -96,6 +97,17 @@ const specialMoves = {
   "🐛🔨": "Debug Ultimate",
 };
 ```
+
+<table width="900px">
+   <tr>
+      <td valign="top" width="50%">
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&theme=onedark&include_all_commits=true&show_icons=true" />
+      </td>
+      <td valign="top" width="30%">
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=onedark&langs_count=16" />
+      </td>
+   </tr>
+</table>
 
 ---
 
