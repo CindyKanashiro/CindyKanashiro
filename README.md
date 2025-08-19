@@ -97,10 +97,14 @@ const specialMoves = {
 };
 ```
 
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=radical&cache_seconds=2300" alt="ilustração do status do github">
-
-
-        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=radical&langs_count=16" />
+<p align="left">
+ <a >
+    <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=radical&cache_seconds=2300" alt="ilustração do status do github">
+  </a>
+  <a>
+    <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=radical&langs_count=16" />
+  </a>
+</p>
 
 ---
 
