@@ -86,17 +86,17 @@ $ quest_log --active --caffeinated
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Container Magic"/>
 </p>
 
-## 🎪 Easter Eggs & Special Abilities
+% ## 🎪 Easter Eggs & Special Abilities
 
-```javascript
-// Hidden developer cheat codes
-const specialMoves = {
-  "↑↑↓↓←→←→BA": "Infinite Coffee Mode",
-  "☕☕☕": "Triple Shot Productivity Boost",
-  "🎨🎨🎨": "Creative Mode Activated",
-  "🐛🔨": "Debug Ultimate",
-};
-```
+% ```javascript
+% // Hidden developer cheat codes
+% const specialMoves = {
+%   "↑↑↓↓←→←→BA": "Infinite Coffee Mode",
+%   "☕☕☕": "Triple Shot Productivity Boost",
+%   "🎨🎨🎨": "Creative Mode Activated",
+%   "🐛🔨": "Debug Ultimate",
+% };
+% ```
 
 <table width="900px">
    <tr>
