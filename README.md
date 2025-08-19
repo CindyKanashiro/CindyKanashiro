@@ -9,7 +9,7 @@
 
 <!-- <img align="right" src="./assets/nintendo.gif" height="220px" width="220px"> -->
 
-<img align="right" src="./assets/vinyl.gif" height="220px" width="220px">
+<img align="right" src="./assets/vinyl.gif" height="200px" width="200px">
 
 ```json
 {
