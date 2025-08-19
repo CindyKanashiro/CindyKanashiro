@@ -6,7 +6,7 @@
 ┌─[cindy@coffee-terminal]─[~/dev/life]
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
-<img align="right" src="./assets/notebook.gif" height="70px" width="70px">
+<img align="right" src="./assets/notebook.gif" height="250px" width="250px">
 
 ```json
 {
