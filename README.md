@@ -7,7 +7,7 @@
 └──╼ $ ./initialize_developer.sh --fuel=espresso --mode=fullstack
 ```
 
-<img align="right" src="./assets/notebook.gif" height="220px" width="220px">
+<img align="right" src="./assets/nintendo.gif" height="220px" width="220px">
 
 ```json
 {
