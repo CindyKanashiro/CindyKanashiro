@@ -100,10 +100,10 @@ const specialMoves = {
 <table width="900px">
    <tr>
       <td valign="top" width="50%">
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&title_color=15151b&text_color=0d1117&icon_color=1a1b20&bg_color=232637&cache_seconds=2300" alt="ilustração do status do github">
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=dracula&cache_seconds=2300" alt="ilustração do status do github">
       </td>
       <td valign="top" width="30%">
-        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=dark&langs_count=16" />
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykanashiro&hide_progress=false&theme=dracula&langs_count=16" />
       </td>
    </tr>
 </table>
