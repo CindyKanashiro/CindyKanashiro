@@ -97,12 +97,6 @@ const specialMoves = {
 };
 ```
 
-<p align="left">
- <a >
-    <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=cindykanashiro&show_icons=true&theme=radical&cache_seconds=2300" alt="ilustração do status do github">
-  </a>
-</p>
-
 ---
 
 <img align="left" src="./assets/piplup.gif" height="70px" width="70px">
